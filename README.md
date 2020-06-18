@@ -2,6 +2,10 @@
 
 - Data restaurant pada aplikasi ini di ambil dari public API Zomato
 
+- Link project
+
+https://github.com/mPadri/app-restaurant/tree/app
+
 ##### preview aplikasi
 
 ##### Halaman Home
