@@ -1,4 +1,4 @@
-# app-restaurant
+# app-restaurant (React Native)
 
 - Data restaurant pada aplikasi ini di ambil dari public API Zomato
 
